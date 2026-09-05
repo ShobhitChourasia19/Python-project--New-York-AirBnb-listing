@@ -8,6 +8,7 @@ This project performs Exploratory Data Analysis (EDA) on New York Airbnb data to
 
 
 Objective
+
 The goal of this project is to:
 Analyze room types, prices, and availability across different neighborhoods.
 Understand host behavior and listing patterns.
